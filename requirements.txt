@@ -8,3 +8,4 @@ imblearn==0.0                # handling imbalance (SMOTE)
 xgboost==1.6.1
 seaborn==0.11.2              # data visualization
 matplotlib==3.6.0            # plotting
+xgboost
